@@ -1,3 +1,6 @@
+Youtube link:
+https://www.youtube.com/watch?v=ZBm6bM7bM34
+
 Heirarchy:
 DrawerNavigator --- TabNavigator+Profile
 TabNavigator ---CreateStory+Feed 
